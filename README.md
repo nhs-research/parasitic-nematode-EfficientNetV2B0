@@ -3,6 +3,27 @@ This repository contains the Google Colab file used to train a parasitic nematod
 
 The dataset used can be accessed <a href='https://data.mendeley.com/datasets/cck8yxj3xw/1'>here</a>
 
+# Dataset Specification
+* Image size: 1280 x 1024 pixel 
+* Data format: .jpg 
+* Number of images: 1016 images 
+* Class: Xiphinema, Meloidogyne, Trichodorus, Hirschmanniella, Hoplolaimus, Criconemoides, Hemicycliophora, Radopholus, Pratylenchus, Criconema, and Helicotylenchus
+* Data source location: Central Java and Yogyakarta, Indonesia
+
+# Dataset Structure
+Class distribution:
+1. Xiphinema: 85 images
+2. Meloidogyne: 211 images
+3. Trichodorus: 44 images
+4. Hirschmanniella: 130 images
+5. Hoplolaimus: 151 images
+6. Criconemoides: 4 images
+7. Hemicycliophora: 6 images
+8. Radopholus: 31 images
+9. Pratylenchus: 116 images
+10. Criconema: 103 images
+11. Helicotylenchus: 135 images
+
 # Installation and Setup
 It's recommended to use <b>Google Colab</b> for this notebook, by following these steps:
 1. Duplicate the notebook
@@ -17,9 +38,6 @@ It's recommended to use <b>Google Colab</b> for this notebook, by following thes
 * The model trained with RMSProp and brightness augmentation give the best result of 97.94%
   
 # Citation
-@article{https://doi.org/10.1016/j.aiia.2022.12.002,
-  title={Deep learning models for automatic identification of plant-parasitic nematode},
-  author={Nabila Husna Shabrina, Ryukin Aranta Lika, Siwi Indarti },
-  journal={Artificial Intelligence in Agriculture},
-  year={2023}
-}
+Please cite these 2 papers if the code and dataset are used:
+* Full research paper: <a href="https://doi.org/10.1016/j.aiia.2022.12.002">10.1016/j.aiia.2022.12.002</a>
+* Dataset: <a href="https://doi.org/10.17632/cck8yxj3xw.1">10.17632/cck8yxj3xw.1</a>
