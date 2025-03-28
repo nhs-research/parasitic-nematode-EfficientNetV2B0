@@ -38,6 +38,30 @@ It's recommended to use <b>Google Colab</b> for this notebook, by following thes
 * The model trained with RMSProp and brightness augmentation give the best result of 97.94%
   
 # Citation
-Please cite these 2 papers if the code and dataset are used:
-* Full research paper: <a href="https://doi.org/10.1016/j.aiia.2022.12.002">10.1016/j.aiia.2022.12.002</a>
-* Dataset: <a href="https://doi.org/10.17632/cck8yxj3xw.1">10.17632/cck8yxj3xw.1</a>
+If you use this project or its resources, please cite the following:
+
+**Research Paper**  
+Shabrina, N. H., Lika, R. A., & Indarti, S. (2023). Deep learning models for automatic identification of plant-parasitic nematode. *Artificial Intelligence in Agriculture*, 7, 1–12. [https://doi.org/10.1016/j.aiia.2022.12.002](https://doi.org/10.1016/j.aiia.2022.12.002)
+
+**Dataset**  
+Indarti, S., Shabrina, N. H., & Maharani, R. (2025). Microscopic Image Dataset of Plant-Parasitic Nematodes. *Mendeley Data*, V1. [https://doi.org/10.17632/cck8yxj3xw.1](https://doi.org/10.17632/cck8yxj3xw.1)
+
+```plaintext
+@article{Shabrina2023,
+  title   = {Deep learning models for automatic identification of plant-parasitic nematode},
+  author  = {Shabrina, Nabila Husna and Lika, Ryukin Aranta and Indarti, Siwi},
+  journal = {Artificial Intelligence in Agriculture},
+  volume  = {7},
+  pages   = {1--12},
+  year    = {2023},
+  doi     = {10.1016/j.aiia.2022.12.002}
+}
+
+@dataset{Indarti2025,
+  title    = {Microscopic Image Dataset of Plant-Parasitic Nematodes},
+  author   = {Indarti, Siwi and Shabrina, Nabila Husna and Maharani, Rina},
+  year     = {2025},
+  publisher= {Mendeley Data},
+  version  = {1},
+  doi      = {10.17632/cck8yxj3xw.1}
+}
