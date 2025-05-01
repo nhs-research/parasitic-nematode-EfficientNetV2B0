@@ -44,7 +44,7 @@ If you use this project or its resources, please cite the following:
 Shabrina, N. H., Lika, R. A., & Indarti, S. (2023). Deep learning models for automatic identification of plant-parasitic nematode. *Artificial Intelligence in Agriculture*, 7, 1–12. [https://doi.org/10.1016/j.aiia.2022.12.002](https://doi.org/10.1016/j.aiia.2022.12.002)
 
 **Dataset**  
-Indarti, S., Shabrina, N. H., & Maharani, R. (2025). Microscopic Image Dataset of Plant-Parasitic Nematodes. *Mendeley Data*, V1. [https://doi.org/10.17632/cck8yxj3xw.1](https://doi.org/10.17632/cck8yxj3xw.1)
+Indarti, S., Shabrina, N. H., & Maharani, R. (2025). Microscopic Image Dataset of Plant-Parasitic Nematodes. *Mendeley Data*, V1. [https://doi.org/10.17632/cck8yxj3xw.2](https://doi.org/10.17632/cck8yxj3xw.2)
 
 ```plaintext
 @article{Shabrina2023,
@@ -62,6 +62,6 @@ Indarti, S., Shabrina, N. H., & Maharani, R. (2025). Microscopic Image Dataset o
   author   = {Indarti, Siwi and Shabrina, Nabila Husna and Maharani, Rina},
   year     = {2025},
   publisher= {Mendeley Data},
-  version  = {1},
-  doi      = {10.17632/cck8yxj3xw.1}
+  version  = {2},
+  doi      = {10.17632/cck8yxj3xw.2}
 }
